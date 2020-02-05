@@ -1,4 +1,4 @@
-#howtoconvertkeynotestogoogleslides 
+#How to convert keynotes to googleslides.  
 
 ## What does this tutorial teach? 
 
@@ -14,4 +14,8 @@ This tutorial will teach a person to convert a Keynote presentation to google sl
 
 	4. Now, drag the file into the folders section in My Drive. Once the presentation is dragged into files, on the bottom right of the screen you will get conformation that is is uploading.
 
-	5. After the presentation finishes uploading it will appear in files and can be access through Googleslides. 
+	5. After the presentation finishes uploading it will appear in files and can be access through Googleslides.   
+
+
+### Does this apply to anything else with Googlesides? 
+	Yes this does apply to other projects, you can move other files such as papers and videos into Googledrive. This gives you the same benefits of moving a Keynote presentation to Googleslides. Another benefit of using Googledrive/slides, is you can access it from any computer or laptop incase you lose a file or forget your device.  
