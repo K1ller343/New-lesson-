@@ -1,4 +1,4 @@
-#How to convert keynotes to googleslides.  
+#Howtoconvertkeynotestogoogleslides.  
 
 ## What does this tutorial teach? 
 
